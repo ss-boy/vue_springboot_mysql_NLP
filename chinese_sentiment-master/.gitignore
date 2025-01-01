@@ -1,0 +1,15 @@
+*.pyc
+.vscode/
+.ipynb_checkpoints/
+sgns.*
+*.npz
+neg/
+pos/
+fix_pos/
+fix_neg/
+old_impl/sentiment_checkpoint.keras
+old_impl/words.txt
+/**/__pycache__/
+.idea/
+*.log
+/**/results
